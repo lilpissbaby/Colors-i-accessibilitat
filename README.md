@@ -40,7 +40,7 @@ En aquest exercici s'han utilitzat diverses eines per analitzar l'accessibilitat
 
 1. **[Color Blindness Test](https://www.colorblindnesstest.org/)**  
    Aquesta eina permet simular com perceben els colors les persones amb diferents tipus de daltonisme.  
-   ![Exemple de test de colorblindtest.org](assets_extensions/cap1.png)
+   ![Exemple de test de colorblindtest.org](https://github.com/lilpissbaby/Colors-i-accessibilitat/blob/master/assests_extensions/cap1.png)
 
 2. **[WCAG Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/)**  
    # Informe d'Auditoria d'Accessibilitat
@@ -139,23 +139,23 @@ Aquest informe proporciona una guia per solucionar els problemes d'accessibilita
 
 3. **Eines de desenvolupador de Firefox**  
    Inclou eines integrades per analitzar l'accessibilitat, com el contrast de colors i l'ordre del focus. En auqest cas, s'ha aplicat el filtre de tritanopia (no poder veure blaus) i s'ha passat per la prova d'accessibilitat.
-   ![Ús de la web](assets_extensions/cap2.png)
+   ![Ús de la web](https://github.com/lilpissbaby/Colors-i-accessibilitat/blob/master/assests_extensions/cap2.png)
 
 4. **[Are My Colors Accessible](https://www.aremycolorsaccessible.com/)**  
    Verifica si els colors utilitzats en una pàgina compleixen els estàndards d'accessibilitat.En aquest cas, s'ha posat els colors dels elements de text amb el seu color fons per comparar si retornava valors vàlids.  
 
 5. **Extensions de navegadors**:
    - **WCAG Contrast Checker Extension**: Comprova el contrast entre el text i el fons. Passant l'exensió a la pàgina, ha donat el següent resultat:
-    ![Resultat de WCAG Contrast Checker](assets_extensions/cap3.png)
+    ![Resultat de WCAG Contrast Checker](https://github.com/lilpissbaby/Colors-i-accessibilitat/blob/master/assests_extensions/cap3.png)
 
    - **Accessive Web Helper Extension**: Analitza problemes d'accessibilitat en temps real. No ha funcionat l'exensuió per la meva pàgina.
-   ![Resultat de WCAG Contrast Checker](assets_extensions/cap4.png)
+   ![Resultat de WCAG Contrast Checker](https://github.com/lilpissbaby/Colors-i-accessibilitat/blob/master/assests_extensions/cap4.png)
 
    - **Accessibility Insights Extension**: Proporciona informes detallats sobre l'accessibilitat.
    Extensió per Edge, incompatible en aquest equip Ubuntu.
 
    - **Issues Extension**: Detecta problemes d'accessibilitat en el codi.
    - **Lighthouse Extension**: Genera informes d'accessibilitat, SEO i rendiment.
-   ![Resultat de Lighthouse](assets_extensions/cap5.png)
+   ![Resultat de Lighthouse](https://github.com/lilpissbaby/Colors-i-accessibilitat/blob/master/assests_extensions/cap5.png)
 
 ---
